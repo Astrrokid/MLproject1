@@ -63,6 +63,12 @@ To get started with this project, follow the steps below.
 
 4. The application will run locally at `http://localhost:5000/`.
 
+## Deployed Application
+
+You can access the deployed version of the Student Score Prediction System here:
+
+- **Deployed URL:** [https://mlproject1-fx7f.onrender.com/predictdata](https://mlproject1-fx7f.onrender.com/predictdata)
+
 ## API Endpoints
 
 ### `/predictdata`
